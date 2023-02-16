@@ -1,8 +1,8 @@
 
     
 <a  data-tagname="转载" style="background-color: #D5F5E3;">转载
-                        <span class="tag-length">2</span>
-                    </span>
+                        <span class="tag-length"</span>
+                  
 
 
 
