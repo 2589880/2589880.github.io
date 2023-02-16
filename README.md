@@ -91,7 +91,7 @@
                 <a href="/tags/plate-recognition/" title="plate recognition: 2">
                     <span class="chip center-align waves-effect waves-light
                              chip-default "
-                            data-tagname="plate recognition" style="background-color: #D7BDE2;">plate recognition
+                            data-tagname="plate recognition" style="background-color: #C682E2;">plate recognition
                         <span class="tag-length">2</span>
                     </span>
                 </a>
