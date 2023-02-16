@@ -1,4 +1,6 @@
 font color="red"这里是红色/font
+
+<font color="red">#FF0000</font> （代表将“这里是红色”这些文字设置为红色）
     
  style="background-color: #C98DE2;">澳门六组三中三
 
