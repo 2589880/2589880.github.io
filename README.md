@@ -1,6 +1,6 @@
 
 
-<strong><font color="red">澳门六组三中三</font> </strong>
+<p><font size="30"><strong><font color="red">澳门六组三中三</font> </strong></font></p>
 
 <font color="purple">澳门六组三中三</font>  
 
